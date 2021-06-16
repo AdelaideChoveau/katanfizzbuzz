@@ -1,0 +1,23 @@
+{
+  "name": "katanfizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdelaideChoveau/katanfizzbuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdelaideChoveau/katanfizzbuzz/issues"
+  },
+  "homepage": "https://github.com/AdelaideChoveau/katanfizzbuzz#readme",
+  "dependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
